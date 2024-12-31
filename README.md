@@ -2,7 +2,7 @@
 
 A social media web app built in Django and React. 
 
-## Features:
+## Features
 - Registration, login & logout using simple JWT tokens.
 - User feed (to view other's posts).
 - Profile Page (displays user's username, profile image, bio, and posts).
