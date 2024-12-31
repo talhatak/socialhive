@@ -57,7 +57,7 @@ Clone the project. (Make sure you have git installed!)
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/talhatak/socialhive/blob/83dffaa8055bf33ea999993781ca9bf9e586c6fc/ss1.JPG))
+![App Screenshot]([(https://github.com/talhatak/socialhive/blob/83dffaa8055bf33ea999993781ca9bf9e586c6fc/ss1.JPG)])
 
 
 ## 🔗 Links
