@@ -50,14 +50,14 @@ Clone the project. (Make sure you have git installed!)
 ```bash
   python manage.py runserver
 ```
-8. Open another terminal, move to frontend folder by "cd frontend", and start your React server 
+8. Open another terminal, move to the frontend folder by "cd frontend", and start your React server 
 ```bash
   npm start
 ```
 
 ## Screenshots
 
-![App Screenshot]([(https://github.com/talhatak/socialhive/blob/83dffaa8055bf33ea999993781ca9bf9e586c6fc/ss1.JPG)])
+![App Screenshot](https://github.com/talhatak/socialhive/blob/83dffaa8055bf33ea999993781ca9bf9e586c6fc/ss1.JPG)
 
 
 ## 🔗 Links
